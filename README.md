@@ -1,3 +1,3 @@
-# parcel-sass-starter
+# parcel-sass-starter v2
 Basic starter project to simple landing page, portfolio ect...
 🍩🍩🍩
