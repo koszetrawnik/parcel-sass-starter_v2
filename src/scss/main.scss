@@ -1,0 +1,20 @@
+@use 'utilities' as u;
+@use 'abstract' as a;
+@use 'components' as c;
+
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#great-wrapper {
+    font-size: a.$dft-font-size;
+    font-family: a.$dft-font-family;
+
+    margin: 0 auto;
+    width: a.$dft-main-wrapper;
+    background-color: a.$clr-primary-100;
+}

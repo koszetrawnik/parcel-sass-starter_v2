@@ -1,0 +1,3 @@
+# parcel-sass-starter
+Basic starter project to simple landing page, portfolio ect...
+🍩🍩🍩
